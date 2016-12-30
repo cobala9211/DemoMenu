@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnu_context1"
+        android:orderInCategory="100"
+        android:title="context 1" />
+    <item
+        android:id="@+id/mnu_context2"
+        android:orderInCategory="100"
+        android:title="context 2" />
+    <item
+        android:id="@+id/mnu_context3"
+        android:orderInCategory="100"
+        android:title="context 3" />
+</menu>
